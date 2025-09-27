@@ -1,0 +1,6 @@
+{
+  "app": "mvn -q -DskipTests compile exec:java -Dexec.mainClass=com.example.infra.App",
+  "watch": {
+    "include": ["**/*.java", "pom.xml"]
+  }
+}
