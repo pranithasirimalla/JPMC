@@ -1,0 +1,1 @@
+{"statusCode":200,"body":"{\"message\":\"Successfully uploaded data to node-sdk-sample-990e2586-3efb-4943-aa03-054f911e540c/hello_world-${uuid.v4()}.txt\",\"bucketName\":\"node-sdk-sample-990e2586-3efb-4943-aa03-054f911e540c\",\"keyName\":\"hello_world-${uuid.v4()}.txt\"}"}
